@@ -1,0 +1,328 @@
+body{
+    background-color:black;
+}
+#header{
+
+    background-color:black;
+    margin:0px;
+    position:relative;
+    
+
+}
+#name{
+    color:yellow;
+   
+    position:absolute;
+    top:0px;
+    left:37.5%;
+    padding: 15px;
+}
+.img1{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border-color:seashell;
+    border-width:5px;
+    border-style: solid;
+}
+.img2{
+    width:150px;
+    border-radius:50%;
+    height:150px;
+    border-color:seashell;
+    border-width:5px;
+    border-style: solid;
+    position:absolute;
+    right:0px;
+    top:0px;
+  
+    
+}
+.name{
+    text-align:center;
+}
+.caption{
+    text-align:center;
+    color:white;
+    
+    
+}
+
+.timeline{
+    width:49%;
+    box-shadow: 0 0 10px 10px red;
+    opacity: 0.9;
+    z-index:0;
+   
+    
+}
+.t{
+    text-align:center;
+    color:whitesmoke;
+    padding-top:28px;
+}
+.content{
+    color:yellow;
+     font-size:22.9px;
+}
+#a{
+    position: relative;
+}
+.a{
+    position:absolute;
+    right:0px;
+    top:0px;
+    z-index:2;
+    
+}
+.b{
+    font-size:25px;
+}
+#h2{
+    padding-top:10px;
+    text-align:center;
+    color:whitesmoke;
+    padding-top:10px;
+}
+hr{
+    border:2px dotted lime;
+}
+.first{
+    width:30%;
+    font-size:25px;
+    border:5px solid blue;
+    margin-bottom:10px;
+    
+}
+
+.quotes{
+    text-align:center;
+    color:white;
+    padding-top:28px;
+}
+#quotes{
+    box-shadow: 0 0 10px 10px red;
+     opacity: 0.9;
+     position:relative;
+}
+.ab{
+    color:yellow;
+    margin:5px;
+   
+}
+.second{
+    width:35%;
+    font-size:25px;
+    border:5px solid blue;
+    margin-bottom:10px;
+    position:absolute;
+    left:31%;
+    top:87px;
+    
+
+}
+.ba{
+    color:yellow;
+    margin:5px;
+    
+}
+.third{
+    width:32%;
+    font-size:25px;
+    border:5px solid blue;
+    margin-bottom:10px;
+    position:absolute;
+    left:67%;
+    top:87px;
+}
+.abc{
+    color:yellow;
+    margin:5px;
+    
+
+}
+.n{
+    border:0.2px dotted black;
+}
+.boo{
+    text-align:center;
+    color:white;
+    padding-top:28px;
+
+}
+#books{
+    width:20%;
+    box-shadow: 0 0 10px 10px red;
+    position: relative;
+}
+#photos{
+    width:390%;
+    position: relative;
+    box-shadow: 0 0 10px 10px red;
+    position:absolute;
+    top:0px;
+    left:110%;
+}
+.been{
+    text-align:center;
+    color:white;
+    padding-top:10px;
+}
+.fr{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border-color:seashell;
+    border-width:5px;
+    border-style: solid;
+
+}
+#fr{
+    margin:30px;
+}
+.se{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border-color:black;
+    border-width:5px;
+    border-style: solid;
+
+}
+#se{
+    position:absolute;
+    left:160px;
+    top:90px;
+    margin:30px;
+}
+.the{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border-color:white;
+    border-width:5px;
+    border-style: solid;
+
+}
+#the{
+    position:absolute;
+    left:320px;
+    top:90px;
+    margin:30px;
+
+}
+.for{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border-color:black;
+    border-width:5px;
+    border-style: solid;
+
+
+}
+#for{
+    position:absolute;
+    left:480px;
+    top:90px;
+    margin:30px;
+
+}
+.fi{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border-color:white;
+    border-width:6px;
+    border-style: solid;
+    
+
+
+}
+#fi{
+    position:absolute;
+    left:640px;
+    top:90px;
+    margin:30px;
+
+}
+#six{
+    position:absolute;
+    left:800px;
+    top:90px;
+    margin:30px;
+
+}
+.six{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border-color:black;
+    border-width:6px;
+    border-style: solid;
+
+}
+.sev{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border-color:white;
+    border-width:6px;
+    border-style: solid;
+}
+#sev{
+    position:absolute;
+    left:960px;
+    top:90px;
+    margin:30px;
+
+}
+.one{
+    color:yellow;
+    align-text:left;
+    position: relative;
+    right:-20px;
+}
+.two{
+    color:yellow;
+    text-align:center;
+    position:absolute;
+    top:390px;
+    left:500px;
+}
+.three{
+    color: yellow;
+    position:absolute;
+    top:390px;
+    right:20px;
+}
+.abo{
+    color:white;
+    text-align:center;
+    font-size:32px;
+    font-family:monospace;
+}
+a{
+    color:yellow;
+}
+.about{
+    box-shadow: 0 0 10px 10px blue;
+
+}
+a:hover{
+    color:red;
+    transform:scale(1.5);
+}
+.about:hover{
+    transform:scale(1.2);
+
+}
+footer{
+    color:whitesmoke;
+    
+}
+HEADER{
+    color:whitesmoke;
+    
+}
+
